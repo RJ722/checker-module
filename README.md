@@ -28,7 +28,7 @@ NOTE:
 1)	For simplification and minimzing the round-off error, the intervals to be provided should be an exponent of 2. A list of such numbers has been publi8shed near the input field for the purpose.
 
 
-2)	There are default values for the number of random numbers to be generated = 1000 and number of intrevls to be created = 4 ( Just for fun and lazzy purposes :) ! )
+2)	There are default values for the number of random numbers to be generated = 1000 and number of intrevls to be created = 4 ( Just for fun and lazy purposes :) for people like me! )
 
 What I intend to do in future?
 ----------------------------
