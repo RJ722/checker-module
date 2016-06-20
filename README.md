@@ -1,11 +1,11 @@
-This is basically a tester of the function random.random() in the random module (Python3).
+This is basically a tester of the function random.random() in the random module (Python3)
 
 What it Tests?
 =============
 
 It tests that all the numbers so generated are equally probable to lie anywhere between 0 and 1 , i.e. they are truly random in sense and do not crowd up in a particular interval.
 
-What it does?
+How it does?
 =============
 
 What it exactly does is that it takes two inputs from the user:
@@ -26,6 +26,8 @@ NOTE:
 -----
 
 1)	For simplification and minimzing the round-off error, the intervals to be provided should be an exponent of 2. A list of such numbers has been publi8shed near the input field for the purpose.
+
+
 2)	There are default values for the number of random numbers to be generated = 1000 and number of intrevls to be created = 4 ( Just for fun and lazzy purposes :) ! )
 
 What I intend to do in future?
